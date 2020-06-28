@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# craigslist-clone
+A Craigslist Clone Built Using Rails 6
+>>>>>>> 2afec29f7357040dbe1d696d15f91ae50b5d413a
